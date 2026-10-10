@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/d:\\MIT\\DataAndML\\Zindi_Farmer\\Report.aux": true,
+        "**/d:\\MIT\\DataAndML\\Zindi_Farmer\\Report.log": true,
+        "**/d:\\MIT\\DataAndML\\Zindi_Farmer\\Report.gz": true,
+        "**/d:\\MIT\\DataAndML\\Zindi_Farmer\\Report.out": true
+    }
+}
